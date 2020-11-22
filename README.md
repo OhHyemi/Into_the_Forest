@@ -1,9 +1,10 @@
 # Into_the_Forest
 ##졸업작품
 
-!()
+!(https://user-images.githubusercontent.com/26238362/99902896-51c64700-2d04-11eb-8425-5afdb0f33428.png)
+<img src="https://user-images.githubusercontent.com/26238362/99902896-51c64700-2d04-11eb-8425-5afdb0f33428.png" width="600" height="600">
 
-1. [유투브 링크](https://youtu.be/YKkjaOfTE64)
+1. [게임 플레이 영상](https://youtu.be/YKkjaOfTE64)
 2. 게임이름 : Into the Forest
 3. 플랫폼 : 안드로이드
 4. 장르 : 아케이드
